@@ -1,0 +1,112 @@
+[
+  {
+    "id": "svl",
+    "company": "The Superior University",
+    "position": "Student Representative & Student Voice Leader (SVL)",
+    "employment_type": "Leadership",
+    "start_date": "March 2023",
+    "end_date": "Present",
+    "location": "Lahore",
+    "responsibilities": [
+      "Represented 200+ students each semester.",
+      "Resolved student-faculty conflicts.",
+      "Organized university events.",
+      "Reappointed for multiple consecutive years."
+    ],
+    "achievements": {
+      "students_represented": "200+",
+      "resolution_rate": "95%",
+      "leadership_duration": "3+ years"
+    },
+    "technologies": []
+  },
+  {
+    "id": "ispr",
+    "company": "ISPR",
+    "position": "Summer Intern",
+    "employment_type": "Internship",
+    "start_date": "July 2025",
+    "end_date": "August 2025",
+    "location": "Lahore",
+    "responsibilities": [
+      "Data handling",
+      "Research support",
+      "Documentation",
+      "Cross-functional coordination"
+    ],
+    "technologies": []
+  },
+  {
+    "id": "uet-game-studio",
+    "company": "UET Game Studio",
+    "position": "Web & Flutter Intern",
+    "employment_type": "Internship",
+    "start_date": "March 2025",
+    "end_date": "May 2025",
+    "location": "Lahore",
+    "responsibilities": [
+      "Developed responsive UI screens.",
+      "Built reusable components.",
+      "Worked with Flutter, React, HTML, CSS, Tailwind, Bootstrap."
+    ],
+    "technologies": [
+      "Flutter",
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": "corvit",
+    "company": "Corvit Networks",
+    "position": "Network Support Trainee (CCNA)",
+    "employment_type": "Training",
+    "start_date": "March 2025",
+    "end_date": "May 2025",
+    "location": "Lahore",
+    "responsibilities": [
+      "Router and switch configuration",
+      "Subnetting",
+      "VLAN implementation",
+      "Firewall configuration",
+      "Network troubleshooting"
+    ],
+    "technologies": [
+      "CCNA",
+      "VLAN",
+      "Subnetting",
+      "Routing",
+      "Switching"
+    ]
+  },
+  {
+    "id": "fyp-lead",
+    "company": "The Superior University",
+    "position": "Final Year Project Team Lead",
+    "employment_type": "Academic Project",
+    "start_date": "March 2025",
+    "end_date": "Present",
+    "location": "Lahore",
+    "responsibilities": [
+      "Led 4-member engineering team.",
+      "Managed Agile sprints.",
+      "Maintained project documentation.",
+      "Coordinated backend, AI and frontend development."
+    ],
+    "technologies": [
+      "Python",
+      "YOLOv8",
+      "OpenCV",
+      "Deep SORT",
+      "Flask",
+      "React",
+      "FastAPI",
+      "Docker",
+      "Agile"
+    ],
+    "related_project_id": "real-time-ai-surveillance"
+  }
+]

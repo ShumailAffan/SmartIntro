@@ -1,0 +1,12 @@
+{
+  "programming_languages": ["Python", "JavaScript", "Dart", "SQL"],
+  "frameworks": ["React", "Flutter", "FastAPI", "Flask"],
+  "frontend": ["HTML5", "CSS3", "Bootstrap 5", "Tailwind CSS"],
+  "backend": ["FastAPI", "Flask", "REST API"],
+  "databases": ["MySQL", "SQLite", "Firestore"],
+  "devops": ["Docker", "Git", "GitHub", "CI/CD"],
+  "mobile": ["Flutter", "Firebase"],
+  "computer_vision": ["YOLOv8", "OpenCV", "Deep SORT"],
+  "networking": ["CCNA", "VLAN", "Subnetting", "Routing", "Switching"],
+  "project_management": ["Agile", "Trello", "Notion"]
+}

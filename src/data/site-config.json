@@ -1,0 +1,33 @@
+{
+  "site_name": "Muhammad Shumail Affan",
+  "site_title": "Muhammad Shumail Affan | Software Engineer Portfolio",
+  "site_description": "Portfolio of Muhammad Shumail Affan — Flutter & React Developer, Full-Stack Engineer, and Computer Science student based in Lahore, Pakistan.",
+  "site_keywords": [
+    "Muhammad Shumail Affan",
+    "Software Engineer",
+    "React Developer",
+    "Flutter Developer",
+    "Full Stack Developer",
+    "Lahore",
+    "Pakistan",
+    "Portfolio"
+  ],
+  "author": "Muhammad Shumail Affan",
+  "theme_color": "#6366f1",
+  "navigation": [
+    { "label": "Home", "path": "/" },
+    { "label": "About", "path": "/about" },
+    { "label": "Skills", "path": "/skills" },
+    { "label": "Experience", "path": "/experience" },
+    { "label": "Projects", "path": "/projects" },
+    { "label": "Certifications", "path": "/certifications" },
+    { "label": "Leadership", "path": "/leadership" },
+    { "label": "Achievements", "path": "/achievements" },
+    { "label": "Contact", "path": "/contact" }
+  ],
+  "social_links": [
+    { "platform": "GitHub", "url": "https://github.com/ShumailAffan", "icon": "github" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/muhammad-shumail-affan-80179b272", "icon": "linkedin" },
+    { "platform": "Email", "url": "mailto:shumailaffan502@gmail.com", "icon": "mail" }
+  ]
+}

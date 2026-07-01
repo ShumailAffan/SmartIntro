@@ -1,0 +1,13 @@
+{
+  "profile_image": null,
+  "resume_file": null,
+  "resume_download_enabled": false,
+  "favicon": null,
+  "og_image": null,
+  "project_images": {},
+  "placeholders": {
+    "profile_image": "[Placeholder: Add profile photo path]",
+    "resume_file": "[Placeholder: Add resume PDF path e.g. /assets/resume.pdf]",
+    "project_cover": "[Placeholder: Add project cover image]"
+  }
+}

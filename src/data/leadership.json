@@ -1,0 +1,42 @@
+[
+  {
+    "id": "svl-leadership",
+    "title": "Student Voice Leader (SVL)",
+    "organization": "The Superior University",
+    "start_date": "March 2023",
+    "end_date": "Present",
+    "location": "Lahore",
+    "description": "Student Representative & Student Voice Leader representing 200+ students each semester.",
+    "highlights": [
+      "Represented 200+ students each semester",
+      "Resolved student-faculty conflicts with 95% resolution rate",
+      "Organized university events",
+      "Reappointed for multiple consecutive years",
+      "3+ years of continuous leadership"
+    ],
+    "metrics": {
+      "students_represented": "200+",
+      "resolution_rate": "95%",
+      "leadership_duration": "3+ years"
+    }
+  },
+  {
+    "id": "fyp-team-lead",
+    "title": "Final Year Project Team Lead",
+    "organization": "The Superior University",
+    "start_date": "March 2025",
+    "end_date": "Present",
+    "location": "Lahore",
+    "description": "Leading a 4-member engineering team on the Real-Time AI Surveillance System flagship project.",
+    "highlights": [
+      "Led 4-member engineering team",
+      "Managed Agile sprints",
+      "Maintained project documentation",
+      "Coordinated backend, AI, and frontend development"
+    ],
+    "metrics": {
+      "team_size": "4",
+      "sprint_adherence": "100%"
+    }
+  }
+]

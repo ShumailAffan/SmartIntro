@@ -1,0 +1,137 @@
+[
+  {
+    "id": "real-time-ai-surveillance",
+    "name": "Real-Time AI Surveillance System",
+    "type": "Flagship Project",
+    "slug": "real-time-ai-surveillance",
+    "overview": "A real-time AI-powered surveillance system with human detection, identity tracking, and alert capabilities.",
+    "description": "Flagship final-year project combining computer vision, backend APIs, and a React dashboard for real-time monitoring and alerts.",
+    "technologies": [
+      "Python",
+      "YOLOv8",
+      "OpenCV",
+      "Deep SORT",
+      "Flask",
+      "React",
+      "Tailwind CSS",
+      "MySQL",
+      "Firestore"
+    ],
+    "features": [
+      "Human detection",
+      "Real-time alerts",
+      "Identity tracking",
+      "REST API",
+      "Dashboard"
+    ],
+    "accuracy": "85-90%",
+    "architecture": "[Placeholder: System architecture diagram or description]",
+    "github": {
+      "repository": null,
+      "readme_url": null,
+      "stars": null,
+      "forks": null,
+      "language": null
+    },
+    "live_demo": null,
+    "cover_image": null,
+    "screenshots": [],
+    "challenges": "[Placeholder: Key technical challenges faced during development]",
+    "solutions": "[Placeholder: Solutions implemented to overcome challenges]",
+    "my_contributions": [
+      "Led 4-member engineering team",
+      "Coordinated backend, AI, and frontend development",
+      "Managed Agile sprints and project documentation"
+    ],
+    "future_improvements": "[Placeholder: Planned enhancements and roadmap]",
+    "related_experience_ids": ["fyp-lead"],
+    "categories": ["AI", "Computer Vision", "Full Stack"]
+  },
+  {
+    "id": "subscription-tracker-api",
+    "name": "Subscription Tracker API",
+    "type": "Backend Project",
+    "slug": "subscription-tracker-api",
+    "overview": "Containerized REST API for managing subscriptions with renewal filters.",
+    "description": "FastAPI-based backend service with SQLAlchemy ORM, SQLite database, and Docker deployment support.",
+    "technologies": ["FastAPI", "SQLAlchemy", "SQLite", "Docker"],
+    "features": ["REST API", "Renewal filters", "Containerized deployment"],
+    "architecture": "[Placeholder: API architecture and service layers]",
+    "github": {
+      "repository": "https://github.com/ShumailAffan/subscription-tracker-api",
+      "readme_url": "https://github.com/ShumailAffan/subscription-tracker-api#readme",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python"
+    },
+    "live_demo": null,
+    "cover_image": null,
+    "screenshots": [],
+    "challenges": "[Placeholder: Key technical challenges faced during development]",
+    "solutions": "[Placeholder: Solutions implemented to overcome challenges]",
+    "my_contributions": "[Placeholder: Specific contributions to this project]",
+    "future_improvements": "[Placeholder: Planned enhancements and roadmap]",
+    "related_experience_ids": [],
+    "categories": ["Backend", "API", "DevOps"]
+  },
+  {
+    "id": "subscription-tracker-app",
+    "name": "Subscription Tracker App",
+    "type": "Mobile Project",
+    "slug": "subscription-tracker-app",
+    "overview": "Flutter mobile app for tracking subscriptions with authentication and renewal alerts.",
+    "description": "Cross-platform mobile application with Firebase authentication, Firestore storage, and Provider state management.",
+    "technologies": ["Flutter", "Firebase", "Firestore", "Provider"],
+    "features": [
+      "Authentication",
+      "Subscription tracking",
+      "Renewal alerts",
+      "Dark mode",
+      "Analytics"
+    ],
+    "architecture": "[Placeholder: Mobile app architecture]",
+    "github": {
+      "repository": "https://github.com/ShumailAffan/Subscription-Tracker-App-",
+      "readme_url": "https://github.com/ShumailAffan/Subscription-Tracker-App-#readme",
+      "stars": 1,
+      "forks": 0,
+      "language": null
+    },
+    "live_demo": null,
+    "cover_image": null,
+    "screenshots": [],
+    "challenges": "[Placeholder: Key technical challenges faced during development]",
+    "solutions": "[Placeholder: Solutions implemented to overcome challenges]",
+    "my_contributions": "[Placeholder: Specific contributions to this project]",
+    "future_improvements": "[Placeholder: Planned enhancements and roadmap]",
+    "related_experience_ids": [],
+    "categories": ["Mobile", "Flutter", "Firebase"]
+  },
+  {
+    "id": "ai-image-processing-web-app",
+    "name": "AI Image Processing Web App",
+    "type": "Web Project",
+    "slug": "ai-image-processing-web-app",
+    "overview": "Web application for AI-powered image enhancement and object detection with real-time preview.",
+    "description": "Full-stack web app combining HTML/CSS/JavaScript frontend with Python OpenCV backend for image processing.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Python", "OpenCV"],
+    "features": ["Image enhancement", "Object detection", "Real-time preview"],
+    "architecture": "[Placeholder: Web app architecture]",
+    "github": {
+      "repository": "https://github.com/ShumailAffan/AI-Image-Processing-Website",
+      "readme_url": "https://github.com/ShumailAffan/AI-Image-Processing-Website#readme",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript"
+    },
+    "live_demo": null,
+    "cover_image": null,
+    "screenshots": [],
+    "challenges": "[Placeholder: Key technical challenges faced during development]",
+    "solutions": "[Placeholder: Solutions implemented to overcome challenges]",
+    "my_contributions": "[Placeholder: Specific contributions to this project]",
+    "future_improvements": "[Placeholder: Planned enhancements and roadmap]",
+    "related_experience_ids": ["uet-game-studio"],
+    "categories": ["Web", "AI", "Computer Vision"]
+  }
+]

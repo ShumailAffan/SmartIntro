@@ -1,0 +1,24 @@
+[
+  {
+    "institution": "The Superior University",
+    "degree": "Bachelor of Science in Computer Science (BSCS)",
+    "field": "Computer Science",
+    "start_date": "March 2023",
+    "expected_graduation": "March 2027",
+    "status": "In Progress"
+  },
+  {
+    "institution": "Govt. Graduate College of Science Wahdat Road, Lahore",
+    "degree": "Intermediate",
+    "field": "Pre-Engineering",
+    "start_date": "September 2020",
+    "end_date": "September 2022"
+  },
+  {
+    "institution": "Unique Institute of Higher Learning",
+    "degree": "Matriculation",
+    "field": "Science",
+    "start_date": "March 2018",
+    "end_date": "April 2020"
+  }
+]
